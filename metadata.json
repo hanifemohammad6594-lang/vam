@@ -1,0 +1,6 @@
+{
+  "name": "مدیریت وام (Loan Manager)",
+  "description": "یک برنامه قدرتمند و زیبا برای مدیریت اطلاعات وام‌ها، پیگیری اقساط و زمان پرداخت سررسیدها با پشتیبانی کامل از زبان فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
